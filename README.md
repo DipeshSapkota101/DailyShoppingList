@@ -1,0 +1,2 @@
+# DailyShoppingList
+First Android Application
